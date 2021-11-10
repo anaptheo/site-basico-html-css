@@ -1,2 +1,2 @@
 # site-basico-html-css
-Réplica simples de um website utilizando apenas com HTML e CSS desenvolvido para o curso de Full Stack Web Developer da Cubos Academy
+Réplica simples de um website utilizando apenas HTML e CSS, desenvolvido para o curso de Full Stack Web Developer da Cubos Academy
