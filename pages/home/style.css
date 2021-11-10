@@ -1,0 +1,113 @@
+
+/* 
+HERO 
+*/
+
+.hero-section {
+    margin: 24px 124.5px 24px 124.5px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    background-image: url("/assets/home/image-homepage-hero.jpg");
+    background-size: 1110px 600px;
+
+    min-width: 1100px;
+    min-height: 600px;
+}
+
+.hero {
+    background-color: #FAFAFA;
+
+    max-width: 445px;
+}
+
+.hero_presentation {
+    padding: 56px 28px 53px 27px;
+}
+
+.hero__container_btn {
+    align-items: center;
+    display: flex;
+
+    background-color: #203A4C;
+    
+    max-width: 200px;
+    max-height: 48px;
+}
+
+.hero__img-btn {
+    padding: 18px 16px;
+}
+
+
+.hero__btn {
+    margin: 0;
+    padding: 17px 42px;
+}
+
+.hero__img {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+    background-color: rgba(0, 0, 0, 0.1);
+    min-height: 48px;
+    min-width: 48px;
+}
+
+.hero__container_btn div:hover {
+    background-color: rgba(95, 180, 162, 0.7);
+}
+
+.hero__container_btn a:hover, div.hover {
+    background-color: rgba(95, 180, 162, 1);
+}
+/* 
+SOBRE MIM
+*/
+
+
+.sobre-mim-section {
+    display: flex;
+    padding: 24px 124.5px 0px 124.5px;
+}
+
+.sobre-mim__img {
+    max-width: 540px;
+    max-height: 600px;
+}
+
+.sobre-mim_message {
+    padding-left: 140px;
+    font-family: 'Public Sans', sans-serif;
+    text-align: center;
+}
+
+.sobre-mim__titulo {
+    padding-top: 51px;
+    text-align: left;
+}
+
+.sobre-mim__text {
+    padding-top: 18px;
+    margin-bottom: 41px;
+    text-align: left;
+}
+
+.sobre-mim__btn {
+    text-align: center;
+}
+
+.sobre-mim__line-bottom {
+    margin-top: 70px;
+}
+
+/* 
+CONTATO 
+*/
+
+.contato-section {
+    padding: 150px 124.5px 150px 124.5px;
+}

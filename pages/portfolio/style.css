@@ -1,0 +1,153 @@
+/* 
+MANAGE 
+*/
+
+.manage-section {
+    display: flex;
+    padding: 24px 171.5px 80px 171.5px;
+}
+
+.manage__img {
+    max-width: 540px;
+    max-height: 500px;
+}
+
+.manage-message {
+    padding-left: 125px;
+}
+
+.manage__titulo {
+    padding-top: 103px;
+}
+
+.manage__text {
+    margin-top: 28px;
+    margin-bottom: 71px;
+}
+
+.manage__btn {
+    padding: 17px 38px;
+}
+
+.manage__line-bottom {
+    margin-top: 90px;
+}
+
+/* 
+BOOKMARK  
+*/
+
+.bookmark-section {
+    display: flex;
+    padding: 24px 171.5px 80px 171.5px;
+}
+
+.bookmark__img {
+    max-width: 540px;
+    max-height: 500px;
+}
+
+.bookmark-message {
+    padding-right: 125px;
+}
+
+.bookmark__titulo {
+    padding-top: 103px;
+}
+
+.bookmark__text {
+    margin-top: 28px;
+    margin-bottom: 71px;
+}
+
+.bookmark__btn {
+    padding: 17px 38px;
+}
+
+.bookmark__line-bottom {
+    margin-top: 90px;
+}
+
+/* 
+INSURE  
+*/
+
+.insure-section {
+    display: flex;
+    padding: 24px 171.5px 80px 171.5px;
+}
+
+.insure__img {
+    max-width: 540px;
+    max-height: 500px;
+}
+
+.insure-message {
+    padding-left: 125px;
+}
+
+.insure__titulo {
+    padding-top: 103px;
+}
+
+.insure__text {
+    margin-top: 28px;
+    margin-bottom: 71px;
+}
+
+.insure__btn {
+    padding: 17px 38px;
+}
+
+.insure__line-bottom {
+    margin-top: 90px;
+}
+
+/* 
+FYLO  
+*/
+
+.fylo-section {
+    display: flex;
+    padding: 24px 171.5px 0px 171.5px;
+}
+
+.fylo__img {
+    max-width: 540px;
+    max-height: 500px;
+}
+
+.fylo-message {
+    padding-right: 125px;
+}
+
+.fylo__titulo {
+    padding-top: 103px;
+}
+
+.fylo__text {
+    margin-top: 28px;
+    margin-bottom: 71px;
+}
+
+.fylo__btn {
+    padding: 17px 38px;
+}
+
+.fylo__line-bottom {
+    margin-top: 90px;
+}
+
+
+/*
+FOOTER 
+*/
+
+.contato-section {
+    padding: 150px 171.5px 150px 171.5px;
+}
+
+
+
+
+

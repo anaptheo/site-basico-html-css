@@ -1,0 +1,85 @@
+hr {
+    margin: 0px 124.5px 48px 124.5px;
+}
+
+.contato__line-top {
+    margin-top: 48px;
+} 
+
+.entre-em-contato__container {
+    padding: 0px 124.5px 0px 124.5px;
+    display: flex;
+}
+
+.entre-em-contato__title {
+    min-width: 350px;
+    padding-right: 125px;
+}
+
+.entre-em-contato__container--text {
+    margin-bottom: 54px;
+}
+
+.entre-em-contato__ul--redes-sociais {
+    display: flex;
+    list-style-type: none;
+}
+
+.entre-em-contato__link--redes-sociais {
+    padding-right: 15px;
+}
+
+.contato__line-bottom {
+    margin-top: 48px;
+}
+
+
+/* 
+INPUTS
+*/
+
+.contato__container {
+    padding: 0px 124.5px 109px 124.5px;
+    display: flex;
+}
+
+.contato__inputs {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+
+input {
+    margin-top: 8px;
+    margin-bottom: 24px;
+    height: 48px;
+    width: 635px;
+    background-color: rgba(51, 50, 61, 0.1);
+    color: rgba(51, 50, 61, 1);
+    border: none;
+    padding: 0px 10px;
+}
+
+label {
+    font-family: Public Sans;
+    font-size: 13px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+#msg-txt {
+    height: 96px;
+}
+
+.input__btn {
+    max-width: 152px;
+    text-align: center;
+    padding: 17px 24px;
+
+    background-color: #203A4C;
+}
+
+.contato__inputs a:hover {
+    background-color: #5FB4A2;
+}

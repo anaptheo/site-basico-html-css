@@ -1,0 +1,202 @@
+* {
+    margin: 0;
+    padding: 0px;
+}
+
+body {
+    min-width: 100vh;
+    color: #33323D;
+    background-color: #FAFAFA;
+}
+
+/* ESPECIFICAÇÕES GERAIS DO FIGMA*/
+
+h1 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-weight: bold;
+    font-size: 50px;
+    letter-spacing: -0.446429px;
+    line-height: 50px;
+}
+
+h2 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: -0.357143px;
+    line-height: 42px;
+}
+
+h3 {
+    font-family: 'Ibarra Real Nova', serif;
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: -0.285714px;
+    line-height: 36px;
+}
+
+.body1 {
+    font-family: 'Public Sans', sans serif;
+    font-size: 16px;
+    line-height: 30px;
+    opacity: 0.8;
+}
+
+.body2 {
+    font-family: 'Public Sans', sans serif;
+    font-size: 15px;
+    line-height: 30px;
+    opacity: 0.8;
+    
+}
+
+.primary-btn {
+
+    color: white;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    line-height: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+.secondary-btn {
+    border: 1px solid rgba(51, 50, 61, 1);
+    color: black;
+    font-family: 'Public Sans', sans-serif;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+
+    padding: 17px 48px;
+}
+
+body a:hover {
+        background-color: #33323D;
+        color: #FAFAFA;
+}
+
+.header a:hover {
+    background-color: #FAFAFA;
+    color: #33323D;
+}
+
+.projects-bar a:hover {
+    background-color: #FAFAFA;
+    color: #33323D;
+}
+
+hr {
+    border: 1px solid rgba(51, 50, 61, 0.1);
+}
+/* 
+HEADER 
+*/
+
+.header {
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;   
+
+    /* meu display tem um tamanho menor que o do arquivo figma, então tirei a diferença nos espaçamentos laterais*/
+    padding: 64px 124.5px 24px 124.5px;
+}
+
+.header__ul {
+    display: flex;
+    
+    align-items: center;
+
+    list-style-type: none;
+    font-family: 'Public Sans', sans-serif;
+    font-weight: 400;
+}
+
+.header__link a {
+    text-decoration: none;
+    color: #33323D;
+    font-weight: 400;
+}
+
+.header__link {
+    padding-left: 42px;
+}
+
+/* 
+CONTATO
+*/
+
+.contato-section {
+    display: flex;
+    
+    align-items: center;
+    justify-content: space-between;
+}
+
+.contato_interest {
+    max-width: 367px;
+}
+
+.contato__btn {
+    color: #33323D;
+    text-align: center;
+    text-decoration: none;
+    padding: 17px 50px;
+}
+
+/* 
+FOOTER 
+*/
+
+.footer {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+
+    background-color: #33323D;
+    color: white;
+
+    padding: 24px 124.5px 24px 124.5px;
+}
+
+.footer_menu {
+    display: flex;
+
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footer_img {
+    padding-right: 5px;
+}
+
+.footer__link {
+    list-style-type: none;
+
+    padding-left: 43px;
+}
+
+.footer__link a {
+    text-decoration: none;
+    color:white;
+    font-weight: 400;
+}
+
+
+.footer__ul--redes-sociais {
+    display: flex;
+
+    align-items: center;
+    list-style-type: none;
+}
+
+.footer__link-redes-sociais {
+    padding-left: 15px;
+}
+
